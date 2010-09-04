@@ -1,0 +1,6 @@
+project /rg/qe/common/stx
+    : usage-requirements
+        <include>.
+    ;
+
+
